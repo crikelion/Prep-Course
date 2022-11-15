@@ -26,10 +26,11 @@ const nuevoModulo = 21 % 5 === 4.2;
 // No cambies los nombres de las funciones.
 
 function devolverString(str) {
+  var str = "hola";
   // "Return" la string provista: str
   // Tu código:
-  
 }
+devolverString();
 
 function suma(x, y) {
   // "x" e "y" son números
