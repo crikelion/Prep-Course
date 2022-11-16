@@ -223,7 +223,7 @@ function doWhile(numero) {
   return numero
 }
 
-doWhile(5)
+//doWhile(5)
 
 // No modificar nada debajo de esta línea
 // --------------------------------
